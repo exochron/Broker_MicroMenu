@@ -19,8 +19,6 @@ externals:
   libs/AceConfig-3.0:
     url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceConfig-3.0
     tag: latest
-  libs/LibQTip-1.0:
-    url: https://repos.wowace.com/wow/libqtip-1-0
-    
+
 tools-used:
   - libdatabroker-1-1
